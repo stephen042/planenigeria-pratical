@@ -10,8 +10,8 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="public/assets/img/favicon.png" rel="icon">
-    <link href="public/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="./public/assets/img/logo.jpg" rel="icon">
+    <link href="./public/assets/img/logo.jpg" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link href="https://fonts.gstatic.com" rel="preconnect">
@@ -54,7 +54,7 @@
             </div>
         </nav>
         <div class="hero">
-            <div id="carouselExampleIndicators" class="carousel slide">
+            <div id="carouselExampleIndicators" class="carousel slide"> 
                 <div class="carousel-indicators">
                     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
